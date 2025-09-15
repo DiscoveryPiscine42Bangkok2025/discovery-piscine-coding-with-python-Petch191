@@ -1,0 +1,3 @@
+Lenovo@LAPTOP-O97UQP8L MINGW64 ~/Desktop/coding with python/cell0/ex02
+$ python hello_world.py | tr -d '\r' |cat -e
+Hello World$
