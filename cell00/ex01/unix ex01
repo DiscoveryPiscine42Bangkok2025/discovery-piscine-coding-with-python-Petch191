@@ -1,0 +1,8 @@
+Lenovo@LAPTOP-O97UQP8L MINGW64 ~/Desktop/coding with python/cell0/ex01
+$ python 42.py | cat -e
+42^M$
+
+Lenovo@LAPTOP-O97UQP8L MINGW64 ~/Desktop/coding with python/cell0/ex01
+$ python 42.py | tr -d '\r' | cat -e
+42$
+
