@@ -1,1 +1,0 @@
-print('Petch 42')
