@@ -1,4 +1,2 @@
-def je(x):
-    print(f"Give me a word: {x}")
-    print(x.upper())
-je("banana")
+text = input('Give me a word: ')
+print(text.upper())
